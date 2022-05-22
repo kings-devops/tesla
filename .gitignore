@@ -1,2 +1,4 @@
 node_modules
 info.dev
+.deploy.sh.swn
+.deploy.sh.swo
