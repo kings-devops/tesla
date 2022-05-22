@@ -1,5 +1,5 @@
 prometheus
 grafana
-newrelic
+dynatrace
 appDynamics
-Dynatrace
+newrelic
